@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Sarah Liu
+# FILENAME: naive_bayes.py
+# SPECIFICATION: Read and output the classification of each of the 10 instances 
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/

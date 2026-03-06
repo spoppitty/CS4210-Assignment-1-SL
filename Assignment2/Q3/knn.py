@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Sarah Liu
+# FILENAME: knn.py
+# SPECIFICATION: Compute the LOO-CV error rate for a 1NN classifier
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: how long it took you to complete the assignment
 #-----------------------------------------------------------*/
@@ -37,7 +37,7 @@ for i in db:
 
     #Fitting the knn to the data using k = 1 and Euclidean distance (L2 norm)
     #--> add your Python code here
-    clf =
+    # clf =
 
     #Use your test sample in this iteration to make the class prediction. For instance:
     #class_predicted = clf.predict([[1, 2, 3, 4, 5, ..., 20]])[0]

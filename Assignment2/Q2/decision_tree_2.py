@@ -60,10 +60,7 @@ for ds in dataSets:
     for i in range (10):
 
        # fitting the decision tree to the data using entropy as your impurity measure and maximum depth = 5
-        clf = tree.DecisionTreeClassifier(
-            criterion='entropy',
-            max_depth=5
-        )
+        clf = tree.DecisionTreeClassifier(criterion='entropy', max_depth=5)
         clf.fit(X, Y)
 
         correct = 0
